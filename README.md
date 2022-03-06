@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring program execution time in PowerShell](https://dev.to/killerasus/measuring-program-execution-time-in-powershell-fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
