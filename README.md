@@ -5,6 +5,7 @@
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The experience of writing a ray tracer in Go](https://dev.to/killerasus/the-experience-of-writing-a-ray-tracer-in-go-24op)
 - [Using Hoppscotch to test REST APIs](https://dev.to/killerasus/using-hoppscotch-to-test-rest-apis-gm5)
 - [Measuring program execution time in PowerShell](https://dev.to/killerasus/measuring-program-execution-time-in-powershell-fdg)
 <!-- BLOG-POST-LIST:END -->
