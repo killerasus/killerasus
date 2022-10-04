@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Baère</h1>
 <h3 align="center">C++ developer</h3>
 
-- 🌱 I’m currently learning **Go and Python**
+- 🌱 I’m currently learning **Go** and **Python** and thinking about **Rust**.
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killerasus&show_icons=true&locale=en&layout=compact&theme=dracula" alt="killerasus" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=killerasus&show_icons=true&locale=en&theme=dracula" alt="killerasus" /></p>
+
+[![@brunobaere's Holopin board](https://holopin.io/api/user/board?user=brunobaere)](https://holopin.io/@brunobaere)
