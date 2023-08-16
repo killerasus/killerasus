@@ -23,6 +23,7 @@
 
 ### 📛 Badges
 <!--START_SECTION:badges-->
+[![Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](http://www.credly.com/badges/6a14b6a9-d65e-477f-bc33-652561ee577e "Computer Hardware Basics")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/7cc492b2-0c0e-4457-8376-435166bf4233 "Python for Data Science")
 [![Open Source Foundations](https://images.credly.com/size/110x110/images/3f393dd4-e8e0-4fef-a424-c9f1d1f3ba97/Open_Source_Foundations.png)](http://www.credly.com/badges/bb855be2-a2be-4c5b-aec6-37ed9c4abb87 "Open Source Foundations")
 [![Verified International Academic Qualifications](https://images.credly.com/size/110x110/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/d7756adc-1f36-479a-9843-026785fe3a60 "Verified International Academic Qualifications")
