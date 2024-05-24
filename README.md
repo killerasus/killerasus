@@ -30,6 +30,7 @@
 <!--END_SECTION:badges-->
 
 <h3 align="left">🎓 Certifications</h3>
+
 [![Certified Scrum Master](https://killerasus.github.io/images/csm_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Master")
 [![Certified Scrum Product Owner](https://killerasus.github.io/images/cspo_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Product Owner")
 
