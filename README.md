@@ -29,7 +29,7 @@
 [![Verified International Academic Qualifications](https://images.credly.com/size/110x110/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/d7756adc-1f36-479a-9843-026785fe3a60 "Verified International Academic Qualifications")
 <!--END_SECTION:badges-->
 
-### 🎓 Certifications
+<h3 align="left">🎓 Certifications</h3>
 [![Certified Scrum Master](https://killerasus.github.io/images/csm_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Master")
 [![Certified Scrum Product Owner](https://killerasus.github.io/images/cspo_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Product Owner")
 
