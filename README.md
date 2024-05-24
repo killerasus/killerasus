@@ -28,6 +28,8 @@
 [![Open Source Foundations](https://images.credly.com/size/110x110/images/3f393dd4-e8e0-4fef-a424-c9f1d1f3ba97/Open_Source_Foundations.png)](http://www.credly.com/badges/bb855be2-a2be-4c5b-aec6-37ed9c4abb87 "Open Source Foundations")
 [![Verified International Academic Qualifications](https://images.credly.com/size/110x110/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/d7756adc-1f36-479a-9843-026785fe3a60 "Verified International Academic Qualifications")
 <!--END_SECTION:badges-->
+
+### 🎓 Certifications
 [![Certified Scrum Master](https://killerasus.github.io/images/csm_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Master")
 [![Certified Scrum Product Owner](https://killerasus.github.io/images/cspo_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Product Owner")
 
