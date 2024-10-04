@@ -23,6 +23,7 @@
 
 ### 📛 Badges
 <!--START_SECTION:badges-->
+[![LFD103: A Beginner's Guide to Linux Kernel Development](https://images.credly.com/size/110x110/images/c6d2f560-62c8-4b89-a825-aa982fdafed7/blob)](http://www.credly.com/badges/faf7cbfa-c941-4c71-898a-1590825fc728 "LFD103: A Beginner's Guide to Linux Kernel Development")
 [![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/34e6c876-79b8-42d7-a0d0-0c672f0032f0 "Python Essentials 1")
 [![Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](http://www.credly.com/badges/6a14b6a9-d65e-477f-bc33-652561ee577e "Computer Hardware Basics")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](http://www.credly.com/badges/7cc492b2-0c0e-4457-8376-435166bf4233 "Python for Data Science")
