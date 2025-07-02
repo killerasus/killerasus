@@ -23,12 +23,12 @@
 
 ### 📛 Badges
 <!--START_SECTION:badges-->
-[![LFD103: A Beginner's Guide to Linux Kernel Development](https://images.credly.com/size/110x110/images/c6d2f560-62c8-4b89-a825-aa982fdafed7/blob)](http://www.credly.com/badges/faf7cbfa-c941-4c71-898a-1590825fc728 "LFD103: A Beginner's Guide to Linux Kernel Development")
-[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/34e6c876-79b8-42d7-a0d0-0c672f0032f0 "Python Essentials 1")
-[![Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](http://www.credly.com/badges/6a14b6a9-d65e-477f-bc33-652561ee577e "Computer Hardware Basics")
-[![Python for Data Science](https://images.credly.com/size/110x110/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](http://www.credly.com/badges/7cc492b2-0c0e-4457-8376-435166bf4233 "Python for Data Science")
-[![Open Source Foundations](https://images.credly.com/size/110x110/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob)](http://www.credly.com/badges/bb855be2-a2be-4c5b-aec6-37ed9c4abb87 "Open Source Foundations")
-[![Verified International Academic Qualifications](https://images.credly.com/size/110x110/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png)](http://www.credly.com/badges/d7756adc-1f36-479a-9843-026785fe3a60 "Verified International Academic Qualifications")
+<a href="https://www.credly.com/badges/faf7cbfa-c941-4c71-898a-1590825fc728" title="LFD103: A Beginner's Guide to Linux Kernel Development"><img src="https://images.credly.com/size/80x80/images/c6d2f560-62c8-4b89-a825-aa982fdafed7/blob" alt="LFD103: A Beginner's Guide to Linux Kernel Development" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/34e6c876-79b8-42d7-a0d0-0c672f0032f0" title="Python Essentials 1"><img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/6a14b6a9-d65e-477f-bc33-652561ee577e" title="Computer Hardware Basics"><img src="https://images.credly.com/size/80x80/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Computer Hardware Basics" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7cc492b2-0c0e-4457-8376-435166bf4233" title="Python for Data Science"><img src="https://images.credly.com/size/80x80/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt="Python for Data Science" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/bb855be2-a2be-4c5b-aec6-37ed9c4abb87" title="Open Source Foundations"><img src="https://images.credly.com/size/80x80/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob" alt="Open Source Foundations" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/d7756adc-1f36-479a-9843-026785fe3a60" title="Verified International Academic Qualifications"><img src="https://images.credly.com/size/80x80/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png" alt="Verified International Academic Qualifications" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <h3 align="left">🎓 Certifications</h3>
