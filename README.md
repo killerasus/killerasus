@@ -5,10 +5,10 @@
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Configuring NeoVim plugins](https://forem.com/killerasus/configuring-neovim-plugins-2kj0)
-- [The experience of writing a ray tracer in Go](https://forem.com/killerasus/the-experience-of-writing-a-ray-tracer-in-go-24op)
-- [Using Hoppscotch to test REST APIs](https://forem.com/killerasus/using-hoppscotch-to-test-rest-apis-gm5)
-- [Measuring program execution time in PowerShell](https://forem.com/killerasus/measuring-program-execution-time-in-powershell-fdg)
+- [Configuring NeoVim plugins](https://dev.to/killerasus/configuring-neovim-plugins-2kj0)
+- [The experience of writing a ray tracer in Go](https://dev.to/killerasus/the-experience-of-writing-a-ray-tracer-in-go-24op)
+- [Using Hoppscotch to test REST APIs](https://dev.to/killerasus/using-hoppscotch-to-test-rest-apis-gm5)
+- [Measuring program execution time in PowerShell](https://dev.to/killerasus/measuring-program-execution-time-in-powershell-fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me:</h3>
