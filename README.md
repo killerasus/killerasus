@@ -51,8 +51,4 @@
 [![Certified Scrum Master](https://killerasus.github.io/images/csm_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Master")
 [![Certified Scrum Product Owner](https://killerasus.github.io/images/cspo_seal.png)](https://badgecert.com/bc/html/publicgroup.html?k=bWZsU0tZbjlmQUN0U3lheG9KRkh6dz09 "Certified Scrum Product Owner")
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killerasus&show_icons=true&locale=en&layout=compact&theme=dracula" alt="killerasus" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=killerasus&show_icons=true&locale=en&theme=dracula" alt="killerasus" /></p>
-
 [![@brunobaere's Holopin board](https://holopin.io/api/user/board?user=brunobaere)](https://holopin.io/@brunobaere)
