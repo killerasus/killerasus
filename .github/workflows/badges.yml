@@ -1,14 +1,18 @@
 name: Update badges
 
 on:
+  workflow_dispatch:
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
