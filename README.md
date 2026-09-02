@@ -81,8 +81,7 @@ I am a Software Engineer specializing in **C++, Go, and High-Performance Computi
 ### 📊 GitHub & Coding Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=killerasus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerasus&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=killerasus&theme=tokyonight&hide_border=false" alt="Bruno's GitHub Streak" />
 </div>
 
 ---
@@ -108,6 +107,7 @@ I am a Software Engineer specializing in **C++, Go, and High-Performance Computi
 <br />
 
 <div align="center">
+
 <!--START_SECTION:badges-->
 [![LFD103: A Beginner's Guide to Linux Kernel Development](https://images.credly.com/size/80x80/images/c6d2f560-62c8-4b89-a825-aa982fdafed7/blob)](https://www.credly.com/badges/faf7cbfa-c941-4c71-898a-1590825fc728)
 [![Python Essentials 1](https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/34e6c876-79b8-42d7-a0d0-0c672f0032f0)
@@ -116,6 +116,7 @@ I am a Software Engineer specializing in **C++, Go, and High-Performance Computi
 [![Open Source Foundations](https://images.credly.com/size/80x80/images/dd2eca53-5605-42f1-b1c5-0f1f5aba6925/blob)](https://www.credly.com/badges/bb855be2-a2be-4c5b-aec6-37ed9c4abb87)
 [![Verified International Academic Qualifications](https://images.credly.com/size/80x80/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png)](https://www.credly.com/badges/d7756adc-1f36-479a-9843-026785fe3a60)
 <!--END_SECTION:badges-->
+
 </div>
 
 <br />
